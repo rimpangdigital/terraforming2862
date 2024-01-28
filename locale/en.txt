@@ -1,0 +1,22 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_5E50A4B0_4F7A_49C6_41B8_279C5F739A12.url = //www.youtube.com/embed/aBhGC1Sx8Ck?v=aBhGC1Sx8Ck
+PopupWebFrameBehaviour_5FC1165E_4F7B_C97D_41C1_182E05A8CDD6.url = //www.youtube.com/embed/aBhGC1Sx8Ck?v=aBhGC1Sx8Ck
+PopupWebFrameBehaviour_5E48BA9F_4F7B_D9FB_41CE_E187DCDE0188.url = //www.youtube.com/embed/aBhGC1Sx8Ck?v=aBhGC1Sx8Ck
+
+## Media
+
+### Title
+panorama_41211E9E_4F7A_59FD_418D_60014637F5A3.label = R0012970
+panorama_43C0A20A_4F7A_48C5_41C9_C78BA8D9E50A.label = R0012971
+panorama_4370CC00_4F7B_D8C5_41CE_B4AC32E96718.label = Terraforming_Plastic Shift 2862
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Terraforming plastic shift 2862
